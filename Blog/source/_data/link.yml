@@ -53,6 +53,10 @@
 - class_name: 博客搜索/推荐
   class_desc: 
   link_list:
+    - name: 中文独立博客列表
+      link: https://github.com/timqian/chinese-independent-blogs
+      avatar: https://s3.bmp.ovh/imgs/2025/01/13/249dffad25554238.png
+      descr: GitHub中文独立博客列表
     - name: Blog Finder
       link: https://bf.zzxworld.com/
       avatar: https://s3.bmp.ovh/imgs/2025/01/13/249dffad25554238.png
